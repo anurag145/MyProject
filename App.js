@@ -27,7 +27,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Yo! Adrian we did it.</Text>
+        <Text style={styles.welcome}>Vernacular.ai</Text>
         <Text style={styles.instructions}>To get started, edit App.js</Text>
         <Text style={styles.instructions}>{instructions}</Text>
       </View>
