@@ -13,9 +13,8 @@ buildscript {
 
 
     repositories {
-        jcenter()
         google()
-
+        jcenter()
 
     }
     dependencies {
